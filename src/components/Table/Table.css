@@ -1,0 +1,19 @@
+/* src/components/Table.css */
+.table-container {
+    overflow-x: auto;
+  }
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #1d1f21;
+  }
+  .custom-table th, .custom-table td {
+    padding: 10px;
+    border: 1px solid #3e4245;
+    color: #ffffff;
+  }
+  .custom-table th {
+    background-color: #2b2d31;
+    text-align: left;
+  }
+  
